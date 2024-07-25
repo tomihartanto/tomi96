@@ -15,8 +15,8 @@
 
 ### 📊 GitHub Stats:
 ---
-![Anggit github stats](https://github-readme-stats.vercel.app/api?username=tomihartanto&theme=radical&show_icons=true&count_private=true)
+![Tomi github stats](https://github-readme-stats.vercel.app/api?username=tomihartanto&theme=radical&show_icons=true&count_private=true)
 
-![Anggit Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomihartanto&theme=solarized_dark)
-![Anggit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomihartanto&theme=solarized_dark)
-![Anggit Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomihartanto&theme=solarized_dark)
+![Tomi Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomihartanto&theme=solarized_dark)
+![Tomi Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomihartanto&theme=solarized_dark)
+![Tomi Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomihartanto&theme=solarized_dark)
