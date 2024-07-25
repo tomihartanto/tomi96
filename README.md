@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Tomi
 ---
 
-- 🔭 I’m currently working on Web Developer
+- 🔭 I’m currently working on Web Development
 - 📫 How to reach me: [on my website](https://tora.my.id/)
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomihartanto&show_icons=true&theme=outrun"/></p>
